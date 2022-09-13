@@ -1,0 +1,1 @@
+{"rustc":10368881109578526382,"features":"[]","target":11137935640387164884,"profile":7235557421335335211,"path":1036222786711178230,"deps":[[1428390900236491258,"crossterm",false,936376557293403607]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/invaders-4e3c7b98d2e79134/dep-bin-invaders"}}],"rustflags":[],"metadata":7797948686568424061,"config":0,"compile_kind":0}
