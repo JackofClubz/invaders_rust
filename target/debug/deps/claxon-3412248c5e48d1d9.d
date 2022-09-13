@@ -1,0 +1,13 @@
+/Users/lance/invaders_rust/target/debug/deps/claxon-3412248c5e48d1d9.rmeta: /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/Users/lance/invaders_rust/target/debug/deps/libclaxon-3412248c5e48d1d9.rlib: /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/Users/lance/invaders_rust/target/debug/deps/claxon-3412248c5e48d1d9.d: /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs:
+/Users/lance/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs:
